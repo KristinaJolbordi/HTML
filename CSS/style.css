@@ -1,0 +1,164 @@
+.li{
+	color: #3D58A6;
+}
+.active{
+	color: #EE4036;
+}
+.logo{
+	display: inline-block;
+	vertical-align: middle;
+	margin: 30px 49.8px 24.4px 30px;
+}
+.navigation{
+	display: inline-block;
+	vertical-align: middle;
+	margin-top: 30.8px;
+	margin-bottom: 24.2px;
+}
+.nav-li{
+	display: inline-block;
+	font-size: 22px;
+	padding-right: 18px;
+}
+.Banner-img {
+	margin: 76.9px 97px 0px 98px;
+}
+
+.left-block{
+    padding: 11.1px 15px 0px 20.8px;
+	width: 570px;
+	display: inline-block;
+	background-color: #F2F2F2;
+	border-color: #707070;
+	margin-right: 29px;
+	margin-bottom: 68.3px;
+}
+
+
+.right-block{
+    display: inline-block;
+    width: 570px;
+    padding: 11.1px 15.4px 0 17.6px;
+    background-color: #F2F2F2;
+	border-color: #707070;
+}
+.featured-article{
+	margin: 117.6px 0px 0px 98px;
+}
+.featured-satauri-h2{
+	font-size: 24px;
+	border-color: #707070;
+	padding-bottom: 29.8px;
+}
+.featured-title1-h3{
+	color: #3D58A6;
+	font-size: 22px;
+	margin: 11.1px 0px 0px 20.8px;
+}
+.featured-title2-h3{
+	color: #3D58A6;
+	font-size: 22px;
+	margin: 11.1px 232.4px 0px 28.6px;
+}
+.img1-in-block{
+	width: 100px;
+	height: 130.5px;
+	vertical-align: top;
+	margin: 12.7px 46.2px 47.1px 18px;
+
+}
+.img2-in-block{
+	width: 84.81px;
+	vertical-align: top;
+	margin: 21.3px 52.9px 36.1px 41.7px;
+
+}
+.p1-block{
+	padding-top: 17.4px;
+	display: inline-block;
+	width: 355px;
+	vertical-align: top;
+	font-size: 20px;
+
+
+}
+.p2-block{
+	padding-top: 13.7px;
+	display: inline-block;
+	width: 353.49px;
+	vertical-align: top;
+	font-size: 20px;
+
+}
+.footer{
+	margin: 0px 0px 38.7px 109.5px;
+}
+.line{
+	background-color: #363E97;
+	display: inline-block;
+    width: 1px;
+    height: 26.76px;
+    margin: 0px 30.2px 0px 35.6px; 
+}
+.date{
+	width: 56px;
+	height: 56px;
+	background-color: #3D58A6;
+	color: #FFFFFF;
+	font-size: 48px;
+	padding-left: 4.1px;
+
+}
+.first{
+	margin-top: 40.4px;
+}
+.month{
+	font-size: 22px;
+	color: #3D58A6;
+	margin-top: 2px;
+	margin-bottom: 17.5px;
+}
+.article{
+	margin-left: 30px;
+}
+.title-h4{
+	font-size: 20px;
+	color: #000000;
+}
+.article-text{
+	display: inline-block;
+	width: 934px;
+	height: 360px;
+	font-size: 16px;
+	vertical-align: top;
+	padding: 21px 93px 0px 34.9px;
+}
+.p2-article{
+	padding-top: 20px;
+
+}
+.article-img{
+	margin: 17.5px 34.9px 187.4px 34.1px;
+}
+.background{
+	height: 570px;
+	background-color: #E6E6E6;
+	margin-bottom: 31.7px;
+}
+.left-contact-block{
+	display: inline-block;
+    vertical-align: top;
+    margin: 51.5px 63.7px 420.5px 97.3px;
+}
+.right-contact-block{
+	vertical-align: top;
+	display: inline-block;
+	margin-top: 39px;
+}
+.title{
+	color: #3D58A6;
+	font-size: 20px;
+}
+.contact-span{
+	color: #808080;
+}
